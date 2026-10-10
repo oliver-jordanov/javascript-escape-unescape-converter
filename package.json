@@ -1,0 +1,20 @@
+{
+  "name": "javascript-escape-unescape-converter",
+  "version": "1.0.0",
+  "description": "Dependency-free JavaScript text transformations for legacy escape sequences, URI encoding, Unicode, HTML entities and JSON strings.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "javascript",
+    "escape",
+    "unescape",
+    "unicode",
+    "percent-encoding",
+    "encodeURIComponent"
+  ],
+  "license": "MIT",
+  "homepage": "https://web-code.org/coding-tools/javascript-escape-unescape-converter-tool.html",
+  "exports": "./src/converter.js"
+}
